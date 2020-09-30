@@ -1,10 +1,9 @@
 # Employee Directory 
 
-   Deployed website: 
-   
-   GitHub Repo:  https://github.com/jamiekim87/employee_directory.git
+   Deployed website: https://jamiekim87.github.io/employee/ <br>
+   GitHub Repo:  https://github.com/jamiekim87/employee.git <br>
   
-   <img src="/Screenshots/image2.png" alt="image">
+   ![Screen Shot 2020-09-30 at 3 10 13 PM](https://user-images.githubusercontent.com/64169844/94745248-2be97b00-032f-11eb-965d-bdaa20630956.png)
   
    ## Table of Contents
 
@@ -27,17 +26,23 @@
    As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
 
    ## License 
-   https://img.shields.io/badge/license-<LICENSE_NAME>-blue.svg
+   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
    APACHE 2.0
 
    ## Contributing 
-   Jamie 
+   Jamie and others
 
    ## Tests 
    run test
     
    ## Questions 
-   undefined
-
+    
+   Please let me know if you have any questions. Thank you!
+    
+   ## GitHub Username 
   
+   [GitHub](https://github.com/jamiekim87/employee/) - jamiekim87
   
+   ## Email 
+  
+   jamiejiyoungkim1004@gmail.com
